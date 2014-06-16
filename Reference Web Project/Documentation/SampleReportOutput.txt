@@ -1,0 +1,12 @@
+adam ---> john (1), todd (1)
+bill ---> adam (3), steve (-3)
+billy ---> 
+bob ---> jay (3)
+dilbert ---> 
+dolly ---> dilbert (3)
+fred ---> bob (-3)
+jay ---> 
+john ---> 
+steve ---> 
+todd ---> 
+

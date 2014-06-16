@@ -1,0 +1,24 @@
+add person adam
+add person john
+add person todd
+add person mike
+add person bill
+add person steve
+add person sally
+add person fred
+add person bob
+add person jay
+add person billy
+add person dolly
+add person dilbert
+add person jeff
+add reference john adam recommend
+add reference todd adam recommend
+add reference mike adam recommend
+add reference adam bill highly recommend
+add reference steve bill not recommended
+add reference sally steve recommend
+add reference bob fred not recommended
+add reference jay bob highly recommend
+add reference dilbert dolly highly recommend
+add reference sally jeff recommend
